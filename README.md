@@ -29,7 +29,7 @@ Field sales representatives represent one of the highest operational expenditure
 
 
 *   **Main Dashboard:** ![Main Dashboard](Main%20Dashboard.png)
-*   **Tier A Segment Filter:** `[Insert Tier_A_Filter.png here]`
+*   **Tier A Segment Filter:** ![Tier_A Filter](Tier_A%20Filter.png)
 
 ## 📁 Repository Contents
 *   `Segmentation_Logic.sql`: The backend SQL script containing the Window Functions used to segment the HCPs.
