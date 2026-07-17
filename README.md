@@ -28,7 +28,7 @@ Field sales representatives represent one of the highest operational expenditure
 ## Project Previews
 
 
-*   **Main Dashboard:** `[Insert Main Dashboard.png]`
+*   **Main Dashboard:** ![Main Dashboard.png]
 *   **Tier A Segment Filter:** `[Insert Tier_A_Filter.png here]`
 
 ## 📁 Repository Contents
