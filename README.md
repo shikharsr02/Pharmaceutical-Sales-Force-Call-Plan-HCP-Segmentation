@@ -32,5 +32,6 @@ Field sales representatives represent one of the highest operational expenditure
 *   **Tier A Segment Filter:** ![Tier_A Filter](Tier_A%20Filter.png)
 
 ## 📁 Repository Contents
-*   `Segmentation_Logic.sql`: The backend SQL script containing the Window Functions used to segment the HCPs.
-*   `Call_Plan_Dashboard.pbix`: The complete, interactive Power BI dashboard.
+*   [Segmentation_Logic.sql]: The backend SQL script containing the Window Functions used to segment the HCPs.
+*   [Call_Plan_Dashboard.pbix]: The complete, interactive Power BI dashboard.
+*   [pipeline.ipynb]: Pandas script used for the data preprocessing and cleaning.
